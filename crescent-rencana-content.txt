@@ -3,9 +3,11 @@ RENCANA KONTEN
 -java Script
 *JS6
 *Frame Java Script
-  ^Angular
+  ^Vue
   ^React
+-Struktur Data Dasar
 -PHP Frame Framework
   ^Laravel
 -Interview
 -Vlog
+-Python
