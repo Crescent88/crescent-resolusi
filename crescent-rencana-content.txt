@@ -4,6 +4,7 @@ RENCANA KONTEN
 *JS6
 *Frame Java Script
   ^Vue
+  ^React
 -Struktur Data Dasar
 -PHP Frame Framework
   ^Laravel
