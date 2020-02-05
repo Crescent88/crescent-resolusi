@@ -3,6 +3,7 @@ RENCANA KONTEN
 -java Script
 *JS6
 *Frame Java Script
+-Struktur Data Dasar
 -PHP Frame Framework
 -Interview
 -Vlog
